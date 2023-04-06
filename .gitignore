@@ -1,4 +1,4 @@
-Backend/backApp/__pycache__/*
-Backend/Backend/__pycache__/*
-Backend/backApp/migrations/*
-*db.sqlite
+# .Backend/backApp/__pycache__/*
+# .Backend/Backend/__pycache__/*
+# .Backend/backApp/migrations/*
+# *.sqlite3
